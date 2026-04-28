@@ -12,7 +12,7 @@ This guide provides step-by-step instructions for setting up and running [VGGT-S
 ### Step 1: Clone the Repository
 First, clone the official VGGT-SLAM repository and navigate into the folder:
 
-`git clone https://github.com/MIT-SPARK/VGGT-SLAM.git`
+`git clone git@github.com:yoichims/VGGT-SLAM.git`
 `cd VGGT-SLAM`
 
 ### Step 2: Create the Environment
